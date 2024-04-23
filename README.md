@@ -1,6 +1,6 @@
 # ExpNo 1 :Developing AI Agent with PEAS Description
-## Name: Saravanan N
-## Register Number/Staff Id: TSML006
+## Name: NIROSHA S
+## Register Number:212222230097
 
 
 ## AIM:
@@ -43,8 +43,6 @@ Measure the performance parameters: For each treatment performance incremented, 
 # PROGRAM:
 ```
 Developing AI Agent with PEAS Description
-Developed by: NIROSHA S
-RegisterNumber: 212222230097
 ```
 ```
 class VacuumCleanerAgent:
